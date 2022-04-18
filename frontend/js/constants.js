@@ -1,4 +1,4 @@
-const contractAddress = "0x940ca52B9a754e61BFf5ae2c45711408Fad09840"; //Replace with your own contract address
+const contractAddress = "0x94BA72ec316A27F9d9c2fD0B4EA794b99d22bFB3"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Happy Flamingos Holders Club NFT Project!!";
